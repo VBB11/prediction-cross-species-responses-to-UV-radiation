@@ -1,0 +1,26 @@
+{% extends "index.html" %}
+
+{% block body %}
+
+<h1>Predicting UV Response on Living Organisms</h1>
+    <hr>
+    {% if result %}
+        <h1>The UV Response on the organism is {{result}}</h1>
+    {% endif %}
+
+    <form action="" method="POST">
+        {% csrf_token %}
+        Species: <input type="number" name="species" required><br>
+        Organism: <input type="number" name="organism" required><br>
+        UV Type: <input type="number" name="uv_type" required><br>
+        Exposure Intensity: <input type="number" name="exposure_intensity" required><br>
+        Exposure Time: <input type="number" name="exposure_time" required><br>
+        Organelle: <input type="number" name="organelle" required><br>
+        Metabolites: <input type="number" name="metabolites" required><br>
+        Proteins: <input type="number" name="proteins" required><br>
+        Genes: <input type="number" name="genes" required><br>
+        Studied Tissue: <input type="number" name="studied_tissue" required><br>
+        <input type="submit">
+    </form>
+
+{% endblock body %}

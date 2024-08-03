@@ -1,0 +1,569 @@
+Species,Organism,UV,"Exposure intensity (in J, KJ, W, KW)",Exposure time (in seconds),Exposure severity,Biological responses,Organelle,Metabolites names,Proteins names,Genes names,Studied tissue,Reference
+Arabidopsis thaliana,Human,UV-A,2.92 W,232,hermetic,signaling,cytoplasm,Nicotinamide Adenine Dinucleotide,Cytochrome C,TP53,cell,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,78.31 KW,2166,hermetic,epigenetic,golgi,Glucose,Myosin,BRAF,seed,Scopus
+Escherichia coli,Plant,UV-A,59.17 J,236,harmful,DNA repair,nucleus,Glucose,Albumin,MTOR,seed,Scopus
+Homo sapiens,Animal,UV-A,18.04 W,111,hermetic,signaling,mitochondrion,Glucose,Myosin,EGFR,skin,PMC ID
+Mus musculus,Plant,UV-B,17.33 J,2275,harmful,DNA repair,nucleus,Citric Acid,Collagen,BRCA1,whole body,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,83.97 W,3269,harmful,epigenetic,cytoplasm,Acetyl-CoA,Keratin,KRAS,seed,Scopus
+Mus musculus,Microorganism,UV-B,73.78 W,555,hermetic,DNA repair,nucleus,Fructose,Myosin,KRAS,seed,Scopus
+Arabidopsis thaliana,Animal,UV-A,36.19 KJ,1239,hermetic,pathways,mitochondrion,Nicotinamide Adenine Dinucleotide,Insulin,EGFR,seed,PMC ID
+Escherichia coli,Microorganism,UV-B,0.55 KW,1755,hermetic,pathways,ribosome,Citric Acid,Tubulin,MTOR,seed,PMC ID
+Mus musculus,Human,UV-A,71.00 KJ,14,harmful,epigenetic,cytoplasm,Adenosine Triphosphate,Albumin,MTOR,cell,Scopus
+Homo sapiens,Plant,UV-B,27.77 KW,356,harmful,DNA repair,proxisome,Lactic Acid,Hemoglobin,APOE,cell,Scopus
+Arabidopsis thaliana,Human,UV-A,3.59 KJ,1735,harmful,signaling,golgi,Nicotinamide Adenine Dinucleotide,Tubulin,BRCA1,whole body,PMC ID
+Mus musculus,Animal,UV-C,62.14 J,845,harmful,epigenetic,nucleus,Citric Acid,Cytochrome C,BRAF,plant,PMC ID
+Escherichia coli,Human,UV-B,20.46 KW,1854,harmful,DNA repair,ribosome,Glucose,Collagen,BRCA1,seed,Scopus
+Mus musculus,Plant,UV-A,29.39 KJ,1795,hermetic,DNA repair,lysosome,Glucose,Keratin,TP53,tear,Scopus
+Mus musculus,Plant,UV-A,30.19 KW,3310,hermetic,DNA repair,membrane,Fructose,Albumin,KRAS,whole body,PMC ID
+Escherichia coli,Plant,UV-A,29.76 KJ,3115,harmful,signaling,proxisome,Glucose,Tubulin,TP53,whole body,Scopus
+Arabidopsis thaliana,Human,UV-A,74.68 J,3414,harmful,DNA damage,cytoplasm,Glucose,Insulin,VEGFA,cell,PMC ID
+Escherichia coli,Human,UV-A,82.07 KW,698,harmful,DNA damage,vacuole,Citric Acid,Keratin,KRAS,seed,PMC ID
+Escherichia coli,Animal,UV-A,11.98 W,577,harmful,pathways,nucleus,Pyruvate,Myosin,BRAF,skin,PMC ID
+Arabidopsis thaliana,Animal,UV-C,50.44 J,2372,hermetic,pathways,lysosome,Citric Acid,Cytochrome C,BRAF,cell,Scopus
+Escherichia coli,Plant,UV-B,37.81 W,306,hermetic,DNA damage,cell wall,Glucose,Hemoglobin,MTOR,skin,PMC ID
+Arabidopsis thaliana,Microorganism,UV-C,50.20 J,2340,harmful,epigenetic,ribosome,Acetyl-CoA,Insulin,KRAS,tear,PMC ID
+Escherichia coli,Animal,UV-C,35.95 W,1049,hermetic,pathways,lysosome,Adenosine Triphosphate,Insulin,BRAF,whole body,PMC ID
+Mus musculus,Human,UV-C,68.00 KJ,886,hermetic,DNA repair,proxisome,Citric Acid,Cytochrome C,KRAS,tear,PMC ID
+Arabidopsis thaliana,Human,UV-B,79.99 W,2267,hermetic,signaling,cell wall,Fructose,Myosin,BRCA1,plant,Scopus
+Arabidopsis thaliana,Human,UV-B,32.12 KJ,2800,hermetic,epigenetic,mitochondrion,Lactic Acid,Tubulin,BRAF,skin,Scopus
+Homo sapiens,Plant,UV-A,76.06 KJ,3405,hermetic,DNA repair,golgi,Adenosine Triphosphate,Insulin,EGFR,tear,Scopus
+Mus musculus,Microorganism,UV-C,59.06 KJ,2854,hermetic,pathways,vacuole,Pyruvate,Hemoglobin,VEGFA,tear,PMC ID
+Mus musculus,Human,UV-B,62.02 W,1144,hermetic,signaling,cytoplasm,Pyruvate,Myosin,BRCA1,plant,PMC ID
+Mus musculus,Animal,UV-C,49.56 J,3553,hermetic,DNA repair,lysosome,Adenosine Triphosphate,Collagen,EGFR,seed,PMC ID
+Escherichia coli,Plant,UV-B,22.76 KW,1695,hermetic,signaling,chloroplast,Nicotinamide Adenine Dinucleotide,Tubulin,EGFR,seed,PMC ID
+Mus musculus,Human,UV-C,9.00 KJ,1643,harmful,pathways,golgi,Citric Acid,Tubulin,VEGFA,cell,PMC ID
+Arabidopsis thaliana,Human,UV-C,59.36 W,2651,hermetic,epigenetic,golgi,Nicotinamide Adenine Dinucleotide,Tubulin,MTOR,tear,Scopus
+Escherichia coli,Human,UV-B,29.02 KJ,614,harmful,DNA damage,lysosome,Fructose,Cytochrome C,EGFR,cell,PMC ID
+Escherichia coli,Microorganism,UV-C,64.99 KW,670,hermetic,pathways,membrane,Nicotinamide Adenine Dinucleotide,Albumin,MTOR,plant,Scopus
+Mus musculus,Animal,UV-C,55.05 J,3031,harmful,epigenetic,ribosome,Nicotinamide Adenine Dinucleotide,Insulin,APOE,cell,Scopus
+Mus musculus,Human,UV-B,54.68 KW,15,hermetic,pathways,vacuole,Lactic Acid,Cytochrome C,BRAF,seed,Scopus
+Homo sapiens,Microorganism,UV-B,70.65 W,2015,hermetic,signaling,lysosome,Adenosine Triphosphate,Hemoglobin,VEGFA,skin,Scopus
+Mus musculus,Plant,UV-B,45.91 KJ,2153,hermetic,DNA damage,golgi,Adenosine Triphosphate,Hemoglobin,TP53,plant,Scopus
+Escherichia coli,Animal,UV-A,10.92 J,2010,harmful,DNA damage,chloroplast,Nicotinamide Adenine Dinucleotide,Insulin,BRAF,whole body,Scopus
+Mus musculus,Plant,UV-C,16.89 W,2745,harmful,pathways,nucleus,Acetyl-CoA,Keratin,BRCA1,plant,PMC ID
+Homo sapiens,Plant,UV-A,8.36 W,1958,harmful,signaling,vacuole,Glucose,Hemoglobin,APOE,tear,Scopus
+Homo sapiens,Human,UV-C,97.92 KW,2573,hermetic,epigenetic,nucleus,Lactic Acid,Cytochrome C,TP53,seed,PMC ID
+Escherichia coli,Animal,UV-B,8.00 KW,2772,hermetic,epigenetic,cytoplasm,Lactic Acid,Tubulin,BRAF,cell,PMC ID
+Arabidopsis thaliana,Plant,UV-A,58.14 KJ,2360,harmful,signaling,nucleus,Lactic Acid,Myosin,KRAS,plant,PMC ID
+Mus musculus,Plant,UV-A,60.91 KW,1498,hermetic,epigenetic,membrane,Citric Acid,Cytochrome C,TP53,seed,Scopus
+Escherichia coli,Animal,UV-B,66.76 KW,3076,harmful,DNA damage,nucleus,Adenosine Triphosphate,Albumin,TP53,skin,PMC ID
+Homo sapiens,Microorganism,UV-A,72.33 KJ,9,hermetic,signaling,endoplasmic reticulum,Adenosine Triphosphate,Collagen,APOE,skin,PMC ID
+Homo sapiens,Human,UV-A,41.31 W,2126,harmful,DNA damage,vacuole,Nicotinamide Adenine Dinucleotide,Cytochrome C,TP53,skin,Scopus
+Arabidopsis thaliana,Human,UV-B,63.78 KJ,1502,harmful,DNA damage,golgi,Lactic Acid,Collagen,BRCA1,tear,PMC ID
+Mus musculus,Microorganism,UV-A,9.59 W,1300,harmful,signaling,membrane,Fructose,Hemoglobin,BRAF,plant,PMC ID
+Arabidopsis thaliana,Human,UV-A,6.51 KW,1596,harmful,pathways,proxisome,Lactic Acid,Cytochrome C,VEGFA,skin,Scopus
+Mus musculus,Human,UV-A,20.60 W,514,harmful,signaling,proxisome,Adenosine Triphosphate,Insulin,APOE,whole body,PMC ID
+Mus musculus,Plant,UV-A,0.95 J,2841,harmful,epigenetic,mitochondrion,Acetyl-CoA,Insulin,EGFR,plant,Scopus
+Arabidopsis thaliana,Plant,UV-C,48.38 KJ,2155,harmful,DNA repair,cell wall,Nicotinamide Adenine Dinucleotide,Tubulin,BRAF,whole body,PMC ID
+Escherichia coli,Human,UV-A,46.94 J,318,hermetic,epigenetic,ribosome,Fructose,Albumin,TP53,plant,Scopus
+Mus musculus,Microorganism,UV-B,93.57 KJ,2997,harmful,signaling,cytoplasm,Glucose,Albumin,APOE,seed,PMC ID
+Homo sapiens,Human,UV-A,54.35 KJ,2781,hermetic,pathways,mitochondrion,Nicotinamide Adenine Dinucleotide,Keratin,EGFR,cell,Scopus
+Homo sapiens,Animal,UV-C,2.47 J,2907,harmful,DNA damage,cytoplasm,Acetyl-CoA,Keratin,EGFR,tear,PMC ID
+Escherichia coli,Microorganism,UV-C,86.47 KW,1906,harmful,pathways,golgi,Nicotinamide Adenine Dinucleotide,Collagen,APOE,tear,Scopus
+Mus musculus,Animal,UV-C,74.04 J,3491,hermetic,DNA damage,golgi,Fructose,Cytochrome C,APOE,skin,Scopus
+Mus musculus,Plant,UV-B,92.94 KW,76,hermetic,epigenetic,cytoplasm,Nicotinamide Adenine Dinucleotide,Myosin,TP53,seed,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,38.19 KJ,1764,harmful,DNA repair,lysosome,Fructose,Tubulin,KRAS,seed,PMC ID
+Escherichia coli,Human,UV-A,75.36 W,3532,harmful,pathways,cell wall,Nicotinamide Adenine Dinucleotide,Collagen,EGFR,skin,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,46.04 KJ,2479,hermetic,signaling,membrane,Citric Acid,Myosin,VEGFA,whole body,Scopus
+Mus musculus,Microorganism,UV-B,8.84 J,2445,harmful,DNA damage,vacuole,Adenosine Triphosphate,Insulin,BRAF,skin,Scopus
+Mus musculus,Human,UV-B,9.55 W,1555,harmful,pathways,nucleus,Acetyl-CoA,Hemoglobin,TP53,plant,PMC ID
+Arabidopsis thaliana,Human,UV-B,85.03 W,2302,harmful,epigenetic,ribosome,Lactic Acid,Insulin,KRAS,whole body,PMC ID
+Arabidopsis thaliana,Plant,UV-A,99.64 W,947,hermetic,DNA damage,endoplasmic reticulum,Acetyl-CoA,Keratin,BRAF,cell,Scopus
+Escherichia coli,Microorganism,UV-C,70.33 J,690,hermetic,pathways,membrane,Glucose,Myosin,APOE,whole body,Scopus
+Escherichia coli,Plant,UV-B,22.23 KJ,728,harmful,DNA repair,golgi,Fructose,Insulin,BRCA1,whole body,PMC ID
+Escherichia coli,Animal,UV-C,81.16 KJ,65,hermetic,signaling,cell wall,Pyruvate,Albumin,APOE,whole body,Scopus
+Escherichia coli,Microorganism,UV-C,96.93 J,2475,hermetic,signaling,nucleus,Fructose,Keratin,TP53,whole body,Scopus
+Escherichia coli,Human,UV-A,76.19 KW,3349,hermetic,signaling,golgi,Adenosine Triphosphate,Keratin,APOE,plant,PMC ID
+Mus musculus,Microorganism,UV-A,61.75 J,2366,hermetic,DNA repair,membrane,Pyruvate,Insulin,VEGFA,skin,PMC ID
+Escherichia coli,Plant,UV-B,91.57 W,635,harmful,epigenetic,endoplasmic reticulum,Adenosine Triphosphate,Albumin,EGFR,seed,Scopus
+Arabidopsis thaliana,Animal,UV-B,28.77 W,3352,harmful,epigenetic,mitochondrion,Citric Acid,Cytochrome C,APOE,skin,PMC ID
+Mus musculus,Microorganism,UV-C,4.38 W,1799,hermetic,DNA repair,endoplasmic reticulum,Lactic Acid,Tubulin,APOE,plant,PMC ID
+Escherichia coli,Human,UV-C,78.32 J,3154,harmful,pathways,golgi,Lactic Acid,Collagen,TP53,whole body,Scopus
+Escherichia coli,Human,UV-C,83.79 J,907,harmful,pathways,chloroplast,Adenosine Triphosphate,Cytochrome C,EGFR,whole body,PMC ID
+Escherichia coli,Plant,UV-B,34.70 W,534,harmful,pathways,vacuole,Acetyl-CoA,Myosin,TP53,tear,PMC ID
+Homo sapiens,Animal,UV-C,89.29 J,2146,hermetic,DNA repair,endoplasmic reticulum,Lactic Acid,Keratin,BRCA1,seed,PMC ID
+Mus musculus,Animal,UV-A,83.97 KW,1114,harmful,DNA repair,cytoplasm,Lactic Acid,Tubulin,APOE,tear,Scopus
+Mus musculus,Human,UV-B,31.79 KJ,592,hermetic,DNA repair,golgi,Adenosine Triphosphate,Collagen,KRAS,whole body,PMC ID
+Mus musculus,Plant,UV-C,69.19 KJ,1370,harmful,signaling,cell wall,Pyruvate,Myosin,MTOR,plant,Scopus
+Homo sapiens,Animal,UV-A,19.05 W,2281,harmful,pathways,proxisome,Lactic Acid,Keratin,APOE,cell,PMC ID
+Escherichia coli,Microorganism,UV-B,53.84 KW,1929,harmful,epigenetic,proxisome,Adenosine Triphosphate,Cytochrome C,APOE,skin,Scopus
+Arabidopsis thaliana,Microorganism,UV-C,98.41 KW,2215,harmful,signaling,endoplasmic reticulum,Nicotinamide Adenine Dinucleotide,Insulin,BRCA1,cell,Scopus
+Escherichia coli,Microorganism,UV-B,56.69 KW,2911,hermetic,epigenetic,golgi,Nicotinamide Adenine Dinucleotide,Cytochrome C,KRAS,seed,Scopus
+Homo sapiens,Human,UV-B,63.40 W,1803,harmful,epigenetic,nucleus,Pyruvate,Tubulin,EGFR,cell,PMC ID
+Mus musculus,Human,UV-A,59.32 KJ,1662,harmful,DNA damage,chloroplast,Pyruvate,Myosin,BRCA1,plant,PMC ID
+Arabidopsis thaliana,Microorganism,UV-C,32.84 W,2480,hermetic,epigenetic,endoplasmic reticulum,Acetyl-CoA,Cytochrome C,BRCA1,seed,PMC ID
+Mus musculus,Animal,UV-C,41.98 J,3102,harmful,pathways,golgi,Acetyl-CoA,Collagen,APOE,seed,Scopus
+Escherichia coli,Animal,UV-C,18.98 KW,3089,harmful,signaling,endoplasmic reticulum,Glucose,Keratin,APOE,tear,Scopus
+Arabidopsis thaliana,Plant,UV-A,59.77 W,1360,hermetic,epigenetic,mitochondrion,Citric Acid,Tubulin,APOE,seed,Scopus
+Homo sapiens,Animal,UV-C,22.85 W,1951,harmful,signaling,proxisome,Fructose,Cytochrome C,EGFR,skin,PMC ID
+Escherichia coli,Human,UV-A,50.25 KW,168,hermetic,signaling,proxisome,Pyruvate,Keratin,APOE,skin,PMC ID
+Arabidopsis thaliana,Microorganism,UV-B,35.51 KW,3328,hermetic,pathways,lysosome,Citric Acid,Cytochrome C,MTOR,seed,PMC ID
+Mus musculus,Microorganism,UV-C,99.09 KW,599,hermetic,pathways,cytoplasm,Glucose,Tubulin,EGFR,skin,Scopus
+Arabidopsis thaliana,Animal,UV-C,6.41 J,2421,hermetic,pathways,golgi,Adenosine Triphosphate,Albumin,VEGFA,cell,Scopus
+Mus musculus,Animal,UV-A,7.45 KJ,559,hermetic,DNA repair,proxisome,Fructose,Collagen,BRCA1,whole body,Scopus
+Arabidopsis thaliana,Human,UV-B,82.14 J,1824,harmful,DNA repair,cell wall,Citric Acid,Collagen,TP53,skin,PMC ID
+Homo sapiens,Animal,UV-B,14.00 W,2437,harmful,pathways,ribosome,Fructose,Tubulin,BRCA1,tear,Scopus
+Arabidopsis thaliana,Human,UV-A,30.39 KW,2210,harmful,signaling,lysosome,Fructose,Tubulin,MTOR,whole body,Scopus
+Arabidopsis thaliana,Plant,UV-B,12.30 J,713,harmful,pathways,chloroplast,Fructose,Insulin,BRCA1,skin,Scopus
+Mus musculus,Animal,UV-C,20.43 W,230,harmful,signaling,lysosome,Glucose,Hemoglobin,KRAS,seed,Scopus
+Arabidopsis thaliana,Animal,UV-B,7.09 KW,1642,hermetic,pathways,nucleus,Fructose,Collagen,KRAS,plant,PMC ID
+Mus musculus,Human,UV-C,90.80 KJ,1333,harmful,pathways,cytoplasm,Pyruvate,Collagen,VEGFA,plant,Scopus
+Mus musculus,Microorganism,UV-A,40.15 KJ,3453,harmful,epigenetic,membrane,Glucose,Hemoglobin,MTOR,seed,Scopus
+Escherichia coli,Animal,UV-B,81.31 J,2622,hermetic,DNA damage,lysosome,Adenosine Triphosphate,Myosin,APOE,seed,PMC ID
+Escherichia coli,Animal,UV-C,12.05 KJ,710,harmful,epigenetic,cell wall,Pyruvate,Keratin,KRAS,whole body,PMC ID
+Homo sapiens,Animal,UV-B,5.99 J,1219,hermetic,epigenetic,chloroplast,Acetyl-CoA,Collagen,APOE,seed,PMC ID
+Homo sapiens,Human,UV-B,62.64 J,861,hermetic,epigenetic,ribosome,Lactic Acid,Collagen,BRCA1,skin,Scopus
+Mus musculus,Microorganism,UV-B,51.30 W,698,harmful,DNA damage,membrane,Citric Acid,Keratin,VEGFA,seed,Scopus
+Homo sapiens,Human,UV-C,55.79 W,3136,harmful,signaling,proxisome,Acetyl-CoA,Tubulin,EGFR,whole body,PMC ID
+Escherichia coli,Plant,UV-B,10.17 KW,2217,harmful,DNA repair,lysosome,Lactic Acid,Cytochrome C,EGFR,seed,PMC ID
+Homo sapiens,Human,UV-C,63.47 J,2659,hermetic,DNA damage,ribosome,Glucose,Cytochrome C,KRAS,cell,Scopus
+Arabidopsis thaliana,Animal,UV-C,50.01 KW,328,harmful,DNA damage,golgi,Glucose,Myosin,EGFR,cell,PMC ID
+Mus musculus,Plant,UV-A,79.88 KJ,3475,harmful,DNA damage,mitochondrion,Pyruvate,Cytochrome C,BRCA1,cell,Scopus
+Homo sapiens,Microorganism,UV-C,63.72 KJ,2523,hermetic,epigenetic,membrane,Pyruvate,Collagen,MTOR,whole body,Scopus
+Homo sapiens,Animal,UV-B,28.13 W,1475,hermetic,DNA damage,cytoplasm,Nicotinamide Adenine Dinucleotide,Insulin,KRAS,tear,PMC ID
+Homo sapiens,Plant,UV-A,75.33 J,1637,harmful,signaling,membrane,Nicotinamide Adenine Dinucleotide,Insulin,KRAS,skin,PMC ID
+Mus musculus,Animal,UV-A,33.77 J,2228,hermetic,signaling,lysosome,Pyruvate,Collagen,VEGFA,tear,PMC ID
+Mus musculus,Microorganism,UV-B,52.12 KJ,3159,hermetic,pathways,cytoplasm,Pyruvate,Collagen,KRAS,tear,Scopus
+Homo sapiens,Animal,UV-B,48.24 KJ,490,hermetic,DNA repair,vacuole,Fructose,Albumin,KRAS,skin,Scopus
+Homo sapiens,Animal,UV-A,87.77 J,1211,hermetic,DNA repair,chloroplast,Pyruvate,Hemoglobin,KRAS,skin,Scopus
+Homo sapiens,Animal,UV-C,43.87 J,2016,harmful,DNA damage,ribosome,Glucose,Albumin,APOE,tear,PMC ID
+Arabidopsis thaliana,Animal,UV-A,29.57 J,2440,hermetic,epigenetic,lysosome,Adenosine Triphosphate,Cytochrome C,TP53,skin,PMC ID
+Homo sapiens,Microorganism,UV-A,85.39 J,1971,hermetic,pathways,cell wall,Glucose,Hemoglobin,MTOR,tear,PMC ID
+Arabidopsis thaliana,Animal,UV-C,31.74 KJ,1528,harmful,DNA damage,membrane,Fructose,Tubulin,MTOR,cell,Scopus
+Arabidopsis thaliana,Human,UV-C,51.24 KW,1096,harmful,DNA damage,lysosome,Fructose,Keratin,BRCA1,skin,PMC ID
+Homo sapiens,Plant,UV-C,9.17 W,1296,hermetic,pathways,chloroplast,Nicotinamide Adenine Dinucleotide,Myosin,APOE,cell,PMC ID
+Mus musculus,Animal,UV-C,41.62 KW,2071,harmful,epigenetic,cytoplasm,Pyruvate,Collagen,EGFR,cell,PMC ID
+Escherichia coli,Human,UV-A,98.08 W,2675,hermetic,epigenetic,golgi,Nicotinamide Adenine Dinucleotide,Cytochrome C,MTOR,skin,Scopus
+Homo sapiens,Human,UV-A,81.80 KJ,3557,harmful,DNA damage,cell wall,Citric Acid,Hemoglobin,EGFR,cell,Scopus
+Escherichia coli,Microorganism,UV-A,25.70 KW,3451,hermetic,DNA damage,mitochondrion,Nicotinamide Adenine Dinucleotide,Hemoglobin,APOE,tear,Scopus
+Arabidopsis thaliana,Human,UV-C,58.32 J,1108,hermetic,signaling,ribosome,Pyruvate,Insulin,EGFR,cell,PMC ID
+Homo sapiens,Human,UV-B,20.60 W,2820,hermetic,pathways,vacuole,Fructose,Hemoglobin,EGFR,skin,Scopus
+Arabidopsis thaliana,Animal,UV-A,84.99 J,2676,harmful,epigenetic,nucleus,Acetyl-CoA,Keratin,EGFR,tear,Scopus
+Arabidopsis thaliana,Animal,UV-B,5.29 KJ,335,hermetic,DNA damage,golgi,Pyruvate,Tubulin,EGFR,plant,PMC ID
+Homo sapiens,Plant,UV-C,75.38 J,2254,hermetic,DNA repair,golgi,Nicotinamide Adenine Dinucleotide,Cytochrome C,KRAS,tear,PMC ID
+Arabidopsis thaliana,Plant,UV-B,79.40 KJ,2811,hermetic,signaling,lysosome,Citric Acid,Collagen,TP53,plant,PMC ID
+Mus musculus,Animal,UV-A,11.97 KW,1106,harmful,signaling,proxisome,Glucose,Cytochrome C,APOE,cell,Scopus
+Mus musculus,Plant,UV-A,67.03 W,1668,hermetic,epigenetic,nucleus,Adenosine Triphosphate,Keratin,KRAS,tear,Scopus
+Escherichia coli,Plant,UV-C,37.71 KJ,2865,harmful,epigenetic,ribosome,Nicotinamide Adenine Dinucleotide,Insulin,BRCA1,whole body,Scopus
+Mus musculus,Plant,UV-C,1.39 KJ,2115,harmful,signaling,ribosome,Lactic Acid,Hemoglobin,BRCA1,tear,Scopus
+Arabidopsis thaliana,Human,UV-C,13.11 W,2276,harmful,DNA damage,cell wall,Lactic Acid,Hemoglobin,BRCA1,whole body,PMC ID
+Escherichia coli,Human,UV-A,24.45 J,187,hermetic,DNA repair,golgi,Fructose,Cytochrome C,TP53,tear,Scopus
+Escherichia coli,Microorganism,UV-B,40.86 KW,3466,hermetic,DNA repair,ribosome,Fructose,Albumin,TP53,plant,PMC ID
+Homo sapiens,Microorganism,UV-B,73.14 KW,1915,hermetic,signaling,vacuole,Citric Acid,Collagen,TP53,whole body,PMC ID
+Arabidopsis thaliana,Animal,UV-A,76.57 W,2660,hermetic,DNA damage,cell wall,Acetyl-CoA,Collagen,KRAS,tear,PMC ID
+Mus musculus,Animal,UV-C,17.97 W,1502,hermetic,DNA damage,mitochondrion,Glucose,Myosin,BRAF,skin,Scopus
+Arabidopsis thaliana,Human,UV-A,20.30 J,77,hermetic,DNA repair,membrane,Glucose,Tubulin,BRCA1,seed,PMC ID
+Escherichia coli,Plant,UV-A,52.32 KJ,2927,harmful,pathways,vacuole,Fructose,Collagen,APOE,seed,PMC ID
+Arabidopsis thaliana,Animal,UV-A,43.45 W,3395,hermetic,signaling,nucleus,Citric Acid,Albumin,MTOR,plant,Scopus
+Escherichia coli,Microorganism,UV-B,63.97 KJ,2108,harmful,epigenetic,membrane,Citric Acid,Insulin,VEGFA,tear,PMC ID
+Mus musculus,Animal,UV-A,50.18 KJ,3335,harmful,DNA repair,ribosome,Nicotinamide Adenine Dinucleotide,Hemoglobin,VEGFA,cell,PMC ID
+Homo sapiens,Animal,UV-B,14.20 J,2204,hermetic,DNA damage,endoplasmic reticulum,Citric Acid,Collagen,EGFR,plant,PMC ID
+Arabidopsis thaliana,Human,UV-C,26.14 KW,480,hermetic,DNA repair,cytoplasm,Pyruvate,Keratin,KRAS,skin,Scopus
+Escherichia coli,Plant,UV-A,38.25 J,2939,hermetic,signaling,membrane,Acetyl-CoA,Insulin,VEGFA,whole body,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,8.16 J,1094,harmful,pathways,cell wall,Nicotinamide Adenine Dinucleotide,Albumin,BRCA1,skin,PMC ID
+Homo sapiens,Microorganism,UV-B,57.20 J,2110,hermetic,DNA damage,golgi,Fructose,Insulin,TP53,skin,PMC ID
+Mus musculus,Plant,UV-C,20.76 KW,2459,hermetic,DNA repair,cell wall,Fructose,Albumin,EGFR,tear,PMC ID
+Homo sapiens,Microorganism,UV-B,78.75 W,3030,hermetic,pathways,mitochondrion,Glucose,Keratin,APOE,cell,PMC ID
+Arabidopsis thaliana,Microorganism,UV-C,66.18 J,589,hermetic,pathways,nucleus,Lactic Acid,Collagen,BRCA1,tear,Scopus
+Homo sapiens,Plant,UV-C,29.95 J,3084,harmful,epigenetic,mitochondrion,Pyruvate,Hemoglobin,BRAF,cell,PMC ID
+Arabidopsis thaliana,Human,UV-C,76.39 KW,2860,harmful,DNA damage,membrane,Citric Acid,Albumin,KRAS,cell,PMC ID
+Homo sapiens,Animal,UV-C,95.25 J,39,harmful,signaling,cytoplasm,Glucose,Tubulin,BRCA1,whole body,Scopus
+Arabidopsis thaliana,Microorganism,UV-C,71.39 KJ,2019,harmful,DNA repair,proxisome,Adenosine Triphosphate,Insulin,APOE,seed,Scopus
+Escherichia coli,Microorganism,UV-A,41.45 J,2218,hermetic,signaling,endoplasmic reticulum,Citric Acid,Myosin,BRAF,seed,PMC ID
+Arabidopsis thaliana,Human,UV-B,81.04 KW,2747,hermetic,DNA repair,golgi,Glucose,Collagen,MTOR,seed,Scopus
+Mus musculus,Microorganism,UV-B,68.43 J,661,hermetic,epigenetic,lysosome,Lactic Acid,Collagen,KRAS,tear,Scopus
+Arabidopsis thaliana,Plant,UV-C,81.98 J,1640,hermetic,DNA repair,proxisome,Pyruvate,Albumin,EGFR,tear,PMC ID
+Mus musculus,Plant,UV-C,53.96 KW,2711,hermetic,DNA repair,vacuole,Citric Acid,Insulin,KRAS,plant,Scopus
+Escherichia coli,Animal,UV-B,78.20 W,1287,harmful,epigenetic,cell wall,Nicotinamide Adenine Dinucleotide,Insulin,BRAF,whole body,PMC ID
+Homo sapiens,Human,UV-B,19.96 W,1494,hermetic,epigenetic,lysosome,Glucose,Keratin,TP53,seed,PMC ID
+Arabidopsis thaliana,Microorganism,UV-A,86.91 J,1698,hermetic,DNA repair,cytoplasm,Nicotinamide Adenine Dinucleotide,Albumin,KRAS,whole body,Scopus
+Homo sapiens,Human,UV-A,98.74 J,1087,hermetic,epigenetic,membrane,Pyruvate,Tubulin,MTOR,cell,Scopus
+Arabidopsis thaliana,Human,UV-A,75.01 J,347,hermetic,DNA repair,golgi,Acetyl-CoA,Tubulin,TP53,whole body,PMC ID
+Arabidopsis thaliana,Animal,UV-C,3.98 KJ,321,hermetic,signaling,cell wall,Pyruvate,Insulin,BRCA1,tear,Scopus
+Mus musculus,Plant,UV-C,55.46 KW,1589,harmful,DNA damage,mitochondrion,Adenosine Triphosphate,Albumin,MTOR,cell,PMC ID
+Escherichia coli,Human,UV-A,96.35 KW,3448,harmful,epigenetic,ribosome,Pyruvate,Cytochrome C,TP53,whole body,Scopus
+Mus musculus,Microorganism,UV-B,63.03 KJ,563,harmful,epigenetic,lysosome,Nicotinamide Adenine Dinucleotide,Cytochrome C,MTOR,plant,PMC ID
+Arabidopsis thaliana,Human,UV-A,1.63 KJ,1630,harmful,DNA repair,ribosome,Nicotinamide Adenine Dinucleotide,Myosin,TP53,tear,PMC ID
+Mus musculus,Human,UV-A,51.06 J,184,hermetic,DNA repair,cytoplasm,Nicotinamide Adenine Dinucleotide,Cytochrome C,BRCA1,cell,Scopus
+Mus musculus,Microorganism,UV-C,38.78 J,990,hermetic,DNA damage,lysosome,Adenosine Triphosphate,Cytochrome C,BRAF,whole body,Scopus
+Homo sapiens,Plant,UV-B,90.04 W,2193,harmful,pathways,nucleus,Lactic Acid,Myosin,BRCA1,plant,PMC ID
+Mus musculus,Microorganism,UV-A,46.18 KW,1746,hermetic,DNA repair,mitochondrion,Citric Acid,Tubulin,EGFR,skin,Scopus
+Escherichia coli,Animal,UV-C,88.73 KW,2166,harmful,signaling,endoplasmic reticulum,Nicotinamide Adenine Dinucleotide,Keratin,BRAF,skin,PMC ID
+Mus musculus,Human,UV-A,9.35 KJ,851,hermetic,epigenetic,membrane,Glucose,Myosin,BRAF,whole body,PMC ID
+Escherichia coli,Human,UV-C,98.48 W,624,harmful,pathways,lysosome,Adenosine Triphosphate,Keratin,BRAF,skin,Scopus
+Escherichia coli,Microorganism,UV-C,15.74 KW,630,harmful,DNA repair,lysosome,Citric Acid,Hemoglobin,BRCA1,seed,PMC ID
+Homo sapiens,Animal,UV-C,56.45 KJ,2720,hermetic,DNA repair,lysosome,Citric Acid,Myosin,KRAS,skin,PMC ID
+Mus musculus,Microorganism,UV-B,66.94 J,1414,hermetic,pathways,ribosome,Nicotinamide Adenine Dinucleotide,Myosin,APOE,seed,Scopus
+Arabidopsis thaliana,Human,UV-A,68.43 W,102,hermetic,pathways,cell wall,Acetyl-CoA,Myosin,VEGFA,cell,Scopus
+Homo sapiens,Human,UV-B,69.03 W,2571,harmful,DNA repair,cell wall,Citric Acid,Cytochrome C,BRAF,cell,PMC ID
+Mus musculus,Plant,UV-C,21.27 W,3261,harmful,DNA damage,cytoplasm,Lactic Acid,Collagen,VEGFA,seed,Scopus
+Mus musculus,Microorganism,UV-B,94.71 KJ,3024,harmful,signaling,ribosome,Glucose,Myosin,APOE,whole body,PMC ID
+Homo sapiens,Microorganism,UV-B,66.63 KW,1305,harmful,pathways,lysosome,Nicotinamide Adenine Dinucleotide,Cytochrome C,BRCA1,whole body,PMC ID
+Arabidopsis thaliana,Human,UV-A,27.37 J,121,hermetic,pathways,chloroplast,Acetyl-CoA,Collagen,BRAF,cell,PMC ID
+Mus musculus,Microorganism,UV-A,24.61 J,2430,harmful,pathways,lysosome,Lactic Acid,Albumin,KRAS,seed,PMC ID
+Mus musculus,Animal,UV-C,81.66 KW,1689,harmful,pathways,golgi,Fructose,Tubulin,KRAS,plant,PMC ID
+Mus musculus,Microorganism,UV-C,68.85 KJ,683,hermetic,DNA damage,nucleus,Fructose,Cytochrome C,VEGFA,tear,Scopus
+Homo sapiens,Plant,UV-C,48.45 J,1674,harmful,signaling,chloroplast,Glucose,Insulin,KRAS,seed,PMC ID
+Mus musculus,Human,UV-B,37.64 KW,3234,hermetic,DNA damage,vacuole,Glucose,Cytochrome C,BRCA1,plant,Scopus
+Escherichia coli,Microorganism,UV-B,89.59 KW,1712,harmful,DNA repair,nucleus,Pyruvate,Keratin,EGFR,skin,Scopus
+Escherichia coli,Plant,UV-A,73.62 KJ,1838,hermetic,pathways,mitochondrion,Nicotinamide Adenine Dinucleotide,Cytochrome C,BRCA1,skin,Scopus
+Mus musculus,Microorganism,UV-A,26.48 J,2913,harmful,DNA damage,chloroplast,Nicotinamide Adenine Dinucleotide,Keratin,TP53,skin,PMC ID
+Arabidopsis thaliana,Human,UV-A,84.73 W,3086,harmful,epigenetic,chloroplast,Citric Acid,Myosin,APOE,cell,Scopus
+Homo sapiens,Plant,UV-C,42.11 KJ,3477,harmful,DNA repair,ribosome,Fructose,Keratin,MTOR,seed,PMC ID
+Escherichia coli,Plant,UV-A,54.49 J,2069,harmful,DNA repair,chloroplast,Fructose,Albumin,TP53,plant,Scopus
+Escherichia coli,Human,UV-B,68.57 W,835,harmful,DNA repair,chloroplast,Pyruvate,Albumin,KRAS,tear,PMC ID
+Homo sapiens,Microorganism,UV-C,89.54 KW,1471,harmful,epigenetic,proxisome,Glucose,Tubulin,BRAF,tear,PMC ID
+Arabidopsis thaliana,Plant,UV-C,66.73 KW,1254,harmful,pathways,nucleus,Adenosine Triphosphate,Insulin,KRAS,seed,PMC ID
+Escherichia coli,Plant,UV-C,81.19 KW,1730,harmful,DNA repair,mitochondrion,Fructose,Myosin,EGFR,seed,PMC ID
+Escherichia coli,Plant,UV-B,87.36 KW,2464,hermetic,DNA repair,nucleus,Fructose,Tubulin,VEGFA,cell,Scopus
+Homo sapiens,Plant,UV-C,13.73 J,637,harmful,epigenetic,mitochondrion,Adenosine Triphosphate,Hemoglobin,TP53,plant,Scopus
+Mus musculus,Human,UV-C,54.86 KJ,2870,hermetic,pathways,ribosome,Citric Acid,Cytochrome C,APOE,seed,Scopus
+Mus musculus,Animal,UV-B,76.48 KW,3053,harmful,pathways,cell wall,Glucose,Cytochrome C,MTOR,seed,Scopus
+Mus musculus,Human,UV-B,6.91 W,2369,harmful,signaling,proxisome,Glucose,Hemoglobin,APOE,skin,Scopus
+Mus musculus,Plant,UV-A,1.58 J,3059,harmful,pathways,cytoplasm,Nicotinamide Adenine Dinucleotide,Cytochrome C,TP53,tear,PMC ID
+Mus musculus,Animal,UV-C,19.74 W,3250,harmful,signaling,ribosome,Adenosine Triphosphate,Insulin,VEGFA,cell,PMC ID
+Mus musculus,Animal,UV-A,90.68 J,1557,hermetic,signaling,golgi,Lactic Acid,Albumin,BRCA1,cell,PMC ID
+Homo sapiens,Plant,UV-B,58.47 KW,2758,harmful,DNA damage,endoplasmic reticulum,Adenosine Triphosphate,Tubulin,APOE,seed,PMC ID
+Mus musculus,Animal,UV-A,90.22 KW,3296,hermetic,epigenetic,proxisome,Citric Acid,Hemoglobin,EGFR,cell,PMC ID
+Arabidopsis thaliana,Microorganism,UV-A,55.43 W,1243,harmful,signaling,chloroplast,Acetyl-CoA,Tubulin,MTOR,skin,Scopus
+Escherichia coli,Animal,UV-C,29.96 J,2617,hermetic,pathways,chloroplast,Citric Acid,Insulin,BRCA1,skin,PMC ID
+Arabidopsis thaliana,Human,UV-C,59.50 J,2782,harmful,signaling,proxisome,Nicotinamide Adenine Dinucleotide,Hemoglobin,BRAF,whole body,PMC ID
+Arabidopsis thaliana,Animal,UV-A,53.79 KJ,861,hermetic,pathways,cytoplasm,Pyruvate,Tubulin,APOE,cell,Scopus
+Homo sapiens,Microorganism,UV-A,90.77 KW,3111,hermetic,DNA damage,chloroplast,Citric Acid,Insulin,BRCA1,skin,PMC ID
+Homo sapiens,Microorganism,UV-B,17.37 W,466,hermetic,pathways,nucleus,Acetyl-CoA,Tubulin,VEGFA,skin,Scopus
+Homo sapiens,Plant,UV-A,85.21 KJ,1328,hermetic,DNA damage,proxisome,Nicotinamide Adenine Dinucleotide,Cytochrome C,APOE,tear,PMC ID
+Mus musculus,Animal,UV-B,53.92 W,96,hermetic,pathways,membrane,Nicotinamide Adenine Dinucleotide,Collagen,APOE,seed,Scopus
+Arabidopsis thaliana,Animal,UV-A,89.72 KJ,1739,harmful,DNA damage,golgi,Pyruvate,Keratin,BRCA1,skin,Scopus
+Homo sapiens,Microorganism,UV-A,57.74 J,2544,hermetic,epigenetic,lysosome,Fructose,Insulin,BRCA1,plant,PMC ID
+Homo sapiens,Animal,UV-B,58.78 KJ,1904,hermetic,DNA repair,proxisome,Citric Acid,Cytochrome C,APOE,whole body,Scopus
+Mus musculus,Plant,UV-A,86.54 W,2552,harmful,signaling,cell wall,Glucose,Keratin,TP53,cell,Scopus
+Homo sapiens,Human,UV-C,72.82 W,2238,harmful,signaling,cell wall,Nicotinamide Adenine Dinucleotide,Myosin,VEGFA,plant,Scopus
+Arabidopsis thaliana,Plant,UV-C,39.69 W,1690,harmful,DNA damage,vacuole,Adenosine Triphosphate,Collagen,BRAF,plant,PMC ID
+Homo sapiens,Human,UV-A,81.98 W,2357,harmful,DNA damage,cytoplasm,Acetyl-CoA,Insulin,APOE,cell,Scopus
+Homo sapiens,Animal,UV-B,62.69 KW,2552,harmful,signaling,cell wall,Pyruvate,Keratin,VEGFA,seed,Scopus
+Mus musculus,Animal,UV-B,22.16 KJ,820,harmful,DNA repair,proxisome,Pyruvate,Albumin,MTOR,cell,Scopus
+Mus musculus,Animal,UV-A,38.39 J,1377,hermetic,signaling,cell wall,Fructose,Insulin,BRCA1,whole body,PMC ID
+Homo sapiens,Plant,UV-B,77.28 KW,819,hermetic,DNA damage,vacuole,Adenosine Triphosphate,Collagen,EGFR,plant,Scopus
+Homo sapiens,Plant,UV-B,29.93 W,1346,hermetic,DNA damage,cell wall,Lactic Acid,Keratin,MTOR,plant,PMC ID
+Escherichia coli,Microorganism,UV-B,35.09 KJ,397,hermetic,DNA damage,endoplasmic reticulum,Citric Acid,Tubulin,EGFR,skin,PMC ID
+Escherichia coli,Microorganism,UV-A,50.98 J,2755,harmful,epigenetic,endoplasmic reticulum,Acetyl-CoA,Myosin,KRAS,skin,Scopus
+Mus musculus,Human,UV-C,62.03 KW,1411,harmful,signaling,ribosome,Adenosine Triphosphate,Albumin,TP53,skin,PMC ID
+Mus musculus,Microorganism,UV-C,56.87 W,1017,harmful,epigenetic,lysosome,Nicotinamide Adenine Dinucleotide,Keratin,MTOR,whole body,PMC ID
+Mus musculus,Human,UV-C,61.16 KW,230,hermetic,DNA damage,vacuole,Glucose,Insulin,BRAF,cell,PMC ID
+Homo sapiens,Microorganism,UV-C,70.02 J,3176,hermetic,signaling,ribosome,Adenosine Triphosphate,Cytochrome C,MTOR,seed,PMC ID
+Homo sapiens,Plant,UV-A,12.59 KJ,1312,hermetic,epigenetic,cytoplasm,Adenosine Triphosphate,Myosin,BRAF,seed,PMC ID
+Arabidopsis thaliana,Microorganism,UV-C,49.97 J,1661,hermetic,signaling,nucleus,Acetyl-CoA,Albumin,TP53,plant,Scopus
+Mus musculus,Human,UV-C,43.68 W,3595,hermetic,epigenetic,cell wall,Lactic Acid,Hemoglobin,TP53,skin,Scopus
+Escherichia coli,Plant,UV-B,37.98 W,3013,harmful,signaling,chloroplast,Adenosine Triphosphate,Tubulin,BRCA1,whole body,Scopus
+Mus musculus,Microorganism,UV-C,52.98 J,1358,hermetic,epigenetic,endoplasmic reticulum,Acetyl-CoA,Tubulin,TP53,skin,PMC ID
+Escherichia coli,Animal,UV-A,73.01 KW,2246,harmful,signaling,ribosome,Acetyl-CoA,Tubulin,EGFR,plant,Scopus
+Arabidopsis thaliana,Human,UV-C,4.23 W,902,hermetic,pathways,lysosome,Lactic Acid,Tubulin,MTOR,whole body,Scopus
+Mus musculus,Microorganism,UV-A,88.60 KJ,228,harmful,DNA repair,cytoplasm,Nicotinamide Adenine Dinucleotide,Keratin,VEGFA,plant,Scopus
+Mus musculus,Animal,UV-A,44.03 J,226,hermetic,signaling,cell wall,Citric Acid,Insulin,KRAS,tear,PMC ID
+Escherichia coli,Animal,UV-A,86.52 KJ,2194,hermetic,DNA damage,proxisome,Nicotinamide Adenine Dinucleotide,Insulin,APOE,skin,PMC ID
+Escherichia coli,Human,UV-B,17.55 KJ,1306,hermetic,signaling,lysosome,Adenosine Triphosphate,Tubulin,KRAS,plant,PMC ID
+Arabidopsis thaliana,Animal,UV-B,16.62 W,82,hermetic,DNA repair,endoplasmic reticulum,Glucose,Collagen,APOE,plant,PMC ID
+Mus musculus,Plant,UV-A,13.18 KW,1072,harmful,DNA repair,membrane,Pyruvate,Keratin,EGFR,plant,Scopus
+Escherichia coli,Human,UV-B,0.69 KW,930,harmful,signaling,mitochondrion,Glucose,Myosin,TP53,whole body,Scopus
+Homo sapiens,Human,UV-A,9.23 KJ,2813,hermetic,DNA damage,endoplasmic reticulum,Glucose,Albumin,BRCA1,seed,Scopus
+Mus musculus,Plant,UV-C,36.29 KJ,2375,harmful,DNA damage,proxisome,Adenosine Triphosphate,Myosin,VEGFA,plant,PMC ID
+Mus musculus,Human,UV-B,32.52 W,1582,hermetic,DNA repair,ribosome,Nicotinamide Adenine Dinucleotide,Myosin,KRAS,plant,PMC ID
+Arabidopsis thaliana,Human,UV-A,53.42 J,533,harmful,DNA damage,endoplasmic reticulum,Acetyl-CoA,Hemoglobin,EGFR,skin,PMC ID
+Mus musculus,Human,UV-B,17.04 KW,1736,harmful,pathways,proxisome,Adenosine Triphosphate,Collagen,MTOR,cell,Scopus
+Arabidopsis thaliana,Animal,UV-A,25.61 J,895,hermetic,pathways,chloroplast,Nicotinamide Adenine Dinucleotide,Insulin,VEGFA,cell,PMC ID
+Arabidopsis thaliana,Microorganism,UV-A,9.68 KW,1297,hermetic,DNA damage,chloroplast,Citric Acid,Tubulin,VEGFA,plant,Scopus
+Homo sapiens,Microorganism,UV-A,2.27 J,3397,harmful,pathways,vacuole,Citric Acid,Hemoglobin,TP53,cell,PMC ID
+Arabidopsis thaliana,Animal,UV-B,7.14 J,608,hermetic,pathways,lysosome,Adenosine Triphosphate,Insulin,VEGFA,plant,PMC ID
+Arabidopsis thaliana,Animal,UV-B,66.76 KJ,1922,hermetic,epigenetic,membrane,Fructose,Hemoglobin,APOE,plant,Scopus
+Mus musculus,Animal,UV-A,52.31 KW,2552,harmful,DNA repair,lysosome,Citric Acid,Insulin,TP53,whole body,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,67.31 J,2536,harmful,DNA damage,nucleus,Lactic Acid,Keratin,BRAF,skin,Scopus
+Homo sapiens,Microorganism,UV-C,50.88 KJ,1443,harmful,pathways,chloroplast,Acetyl-CoA,Tubulin,BRCA1,tear,Scopus
+Homo sapiens,Animal,UV-A,86.93 KW,3584,hermetic,DNA damage,cell wall,Citric Acid,Insulin,BRAF,tear,Scopus
+Mus musculus,Plant,UV-A,28.63 J,2031,harmful,pathways,nucleus,Acetyl-CoA,Myosin,BRAF,plant,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,42.57 KW,3288,hermetic,pathways,cell wall,Citric Acid,Cytochrome C,BRCA1,whole body,PMC ID
+Mus musculus,Human,UV-C,48.83 KW,790,hermetic,DNA repair,chloroplast,Acetyl-CoA,Cytochrome C,VEGFA,tear,Scopus
+Mus musculus,Animal,UV-C,69.72 KJ,3467,hermetic,DNA repair,membrane,Nicotinamide Adenine Dinucleotide,Myosin,TP53,seed,PMC ID
+Arabidopsis thaliana,Human,UV-C,75.09 KJ,956,hermetic,DNA damage,cytoplasm,Citric Acid,Myosin,VEGFA,skin,PMC ID
+Mus musculus,Microorganism,UV-B,99.68 KW,3086,hermetic,DNA damage,nucleus,Nicotinamide Adenine Dinucleotide,Cytochrome C,TP53,skin,Scopus
+Escherichia coli,Plant,UV-B,11.27 J,331,hermetic,pathways,lysosome,Acetyl-CoA,Collagen,VEGFA,skin,Scopus
+Mus musculus,Plant,UV-C,8.36 KW,3329,harmful,pathways,cytoplasm,Nicotinamide Adenine Dinucleotide,Collagen,APOE,seed,Scopus
+Homo sapiens,Human,UV-B,10.16 KJ,1093,hermetic,DNA repair,cell wall,Lactic Acid,Cytochrome C,TP53,plant,Scopus
+Mus musculus,Plant,UV-C,62.30 KJ,603,harmful,pathways,proxisome,Lactic Acid,Myosin,VEGFA,tear,Scopus
+Arabidopsis thaliana,Animal,UV-C,13.64 W,2100,hermetic,signaling,vacuole,Nicotinamide Adenine Dinucleotide,Hemoglobin,BRCA1,plant,Scopus
+Homo sapiens,Microorganism,UV-A,1.85 J,325,hermetic,signaling,lysosome,Adenosine Triphosphate,Tubulin,EGFR,skin,Scopus
+Homo sapiens,Plant,UV-B,43.71 W,2181,hermetic,pathways,lysosome,Citric Acid,Collagen,APOE,cell,PMC ID
+Mus musculus,Microorganism,UV-A,29.42 W,862,harmful,pathways,membrane,Lactic Acid,Collagen,TP53,seed,Scopus
+Homo sapiens,Microorganism,UV-B,62.17 KJ,2633,hermetic,epigenetic,vacuole,Acetyl-CoA,Myosin,BRCA1,cell,PMC ID
+Mus musculus,Animal,UV-C,78.06 KW,563,harmful,DNA repair,endoplasmic reticulum,Nicotinamide Adenine Dinucleotide,Insulin,MTOR,skin,Scopus
+Arabidopsis thaliana,Plant,UV-C,83.26 KJ,1054,harmful,DNA repair,golgi,Pyruvate,Keratin,MTOR,plant,PMC ID
+Homo sapiens,Animal,UV-A,77.16 J,581,hermetic,pathways,golgi,Acetyl-CoA,Collagen,EGFR,skin,PMC ID
+Escherichia coli,Human,UV-B,88.82 J,793,hermetic,epigenetic,mitochondrion,Fructose,Myosin,EGFR,seed,Scopus
+Arabidopsis thaliana,Human,UV-C,11.21 W,1071,harmful,signaling,ribosome,Citric Acid,Cytochrome C,VEGFA,cell,PMC ID
+Mus musculus,Microorganism,UV-A,29.18 J,22,hermetic,DNA repair,mitochondrion,Lactic Acid,Insulin,VEGFA,skin,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,75.23 KJ,3565,hermetic,pathways,nucleus,Fructose,Keratin,BRCA1,cell,PMC ID
+Mus musculus,Animal,UV-B,84.11 W,2567,hermetic,DNA repair,endoplasmic reticulum,Lactic Acid,Keratin,APOE,skin,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,35.32 KJ,3136,harmful,DNA damage,golgi,Citric Acid,Cytochrome C,BRAF,cell,Scopus
+Escherichia coli,Animal,UV-B,60.22 KJ,2558,harmful,epigenetic,ribosome,Fructose,Keratin,VEGFA,plant,PMC ID
+Arabidopsis thaliana,Human,UV-C,44.93 J,639,harmful,DNA repair,membrane,Pyruvate,Hemoglobin,APOE,skin,Scopus
+Escherichia coli,Animal,UV-B,55.29 W,1623,harmful,DNA repair,mitochondrion,Pyruvate,Albumin,EGFR,cell,PMC ID
+Homo sapiens,Plant,UV-A,41.62 J,1118,hermetic,epigenetic,cell wall,Adenosine Triphosphate,Insulin,TP53,whole body,PMC ID
+Homo sapiens,Plant,UV-B,46.77 J,764,harmful,DNA repair,lysosome,Fructose,Hemoglobin,TP53,whole body,Scopus
+Escherichia coli,Human,UV-C,38.77 J,3018,hermetic,pathways,cytoplasm,Glucose,Hemoglobin,BRCA1,seed,PMC ID
+Mus musculus,Microorganism,UV-B,43.11 W,916,harmful,signaling,mitochondrion,Lactic Acid,Collagen,VEGFA,tear,PMC ID
+Homo sapiens,Plant,UV-B,17.40 W,539,harmful,DNA damage,golgi,Acetyl-CoA,Keratin,BRAF,seed,Scopus
+Homo sapiens,Animal,UV-A,66.46 KJ,1889,hermetic,DNA damage,golgi,Nicotinamide Adenine Dinucleotide,Insulin,BRAF,whole body,PMC ID
+Escherichia coli,Microorganism,UV-A,66.25 KW,3034,hermetic,epigenetic,vacuole,Citric Acid,Hemoglobin,BRCA1,cell,PMC ID
+Homo sapiens,Animal,UV-C,70.21 KJ,3258,harmful,pathways,vacuole,Acetyl-CoA,Keratin,BRCA1,whole body,Scopus
+Escherichia coli,Microorganism,UV-C,31.52 J,2071,harmful,DNA repair,ribosome,Nicotinamide Adenine Dinucleotide,Insulin,KRAS,seed,Scopus
+Mus musculus,Human,UV-C,57.81 KJ,687,harmful,DNA damage,nucleus,Nicotinamide Adenine Dinucleotide,Myosin,MTOR,whole body,PMC ID
+Arabidopsis thaliana,Microorganism,UV-B,8.50 W,700,hermetic,signaling,vacuole,Citric Acid,Keratin,VEGFA,whole body,PMC ID
+Mus musculus,Animal,UV-C,59.12 KW,525,hermetic,signaling,cell wall,Fructose,Keratin,MTOR,cell,Scopus
+Arabidopsis thaliana,Microorganism,UV-C,58.44 J,1625,harmful,DNA damage,nucleus,Nicotinamide Adenine Dinucleotide,Collagen,VEGFA,whole body,Scopus
+Mus musculus,Plant,UV-B,13.92 W,2931,hermetic,signaling,proxisome,Lactic Acid,Collagen,EGFR,plant,Scopus
+Mus musculus,Human,UV-B,57.95 KJ,1445,hermetic,epigenetic,lysosome,Fructose,Insulin,VEGFA,plant,PMC ID
+Arabidopsis thaliana,Animal,UV-C,92.14 W,3005,harmful,signaling,membrane,Citric Acid,Tubulin,MTOR,plant,PMC ID
+Mus musculus,Animal,UV-A,56.49 W,3504,hermetic,DNA damage,membrane,Lactic Acid,Keratin,TP53,seed,Scopus
+Escherichia coli,Animal,UV-C,25.76 J,722,harmful,pathways,cell wall,Citric Acid,Cytochrome C,EGFR,whole body,Scopus
+Mus musculus,Animal,UV-B,86.37 J,2960,hermetic,DNA damage,ribosome,Glucose,Insulin,BRCA1,cell,Scopus
+Escherichia coli,Microorganism,UV-A,3.58 J,135,harmful,DNA damage,cytoplasm,Glucose,Cytochrome C,KRAS,cell,PMC ID
+Escherichia coli,Human,UV-B,69.57 W,643,hermetic,DNA repair,golgi,Citric Acid,Hemoglobin,BRCA1,seed,Scopus
+Homo sapiens,Plant,UV-A,62.09 J,1351,hermetic,DNA damage,mitochondrion,Acetyl-CoA,Insulin,VEGFA,tear,Scopus
+Escherichia coli,Plant,UV-C,10.27 W,812,hermetic,signaling,ribosome,Acetyl-CoA,Cytochrome C,BRCA1,seed,Scopus
+Homo sapiens,Microorganism,UV-A,73.18 KW,474,hermetic,signaling,chloroplast,Glucose,Albumin,BRAF,tear,PMC ID
+Homo sapiens,Animal,UV-B,97.36 W,3263,harmful,DNA repair,proxisome,Lactic Acid,Insulin,KRAS,plant,PMC ID
+Homo sapiens,Microorganism,UV-B,12.08 KW,2598,hermetic,DNA repair,mitochondrion,Acetyl-CoA,Cytochrome C,APOE,whole body,Scopus
+Mus musculus,Human,UV-A,59.64 KJ,141,harmful,pathways,vacuole,Pyruvate,Myosin,TP53,skin,PMC ID
+Escherichia coli,Human,UV-C,28.08 KJ,3496,harmful,signaling,cytoplasm,Glucose,Albumin,MTOR,plant,PMC ID
+Arabidopsis thaliana,Animal,UV-A,8.56 KJ,3351,hermetic,DNA damage,vacuole,Citric Acid,Hemoglobin,BRCA1,seed,Scopus
+Arabidopsis thaliana,Human,UV-C,75.04 KJ,2221,harmful,epigenetic,mitochondrion,Fructose,Hemoglobin,TP53,plant,Scopus
+Mus musculus,Microorganism,UV-C,25.98 J,1807,harmful,DNA repair,vacuole,Pyruvate,Collagen,TP53,skin,Scopus
+Escherichia coli,Human,UV-C,96.69 KJ,2463,hermetic,pathways,cytoplasm,Citric Acid,Hemoglobin,BRAF,plant,PMC ID
+Mus musculus,Animal,UV-B,88.89 KW,2884,hermetic,DNA damage,ribosome,Glucose,Hemoglobin,MTOR,seed,Scopus
+Mus musculus,Microorganism,UV-C,40.07 KW,1039,hermetic,pathways,golgi,Lactic Acid,Insulin,BRAF,cell,Scopus
+Mus musculus,Plant,UV-B,26.88 W,392,harmful,pathways,chloroplast,Glucose,Myosin,APOE,seed,Scopus
+Homo sapiens,Microorganism,UV-A,67.34 KW,1565,hermetic,epigenetic,lysosome,Glucose,Tubulin,KRAS,skin,PMC ID
+Arabidopsis thaliana,Animal,UV-A,49.78 J,3146,harmful,DNA repair,nucleus,Pyruvate,Myosin,EGFR,whole body,Scopus
+Arabidopsis thaliana,Plant,UV-A,2.12 KJ,585,harmful,epigenetic,mitochondrion,Pyruvate,Keratin,EGFR,plant,PMC ID
+Escherichia coli,Human,UV-A,17.26 KW,3071,harmful,DNA damage,proxisome,Adenosine Triphosphate,Insulin,TP53,cell,Scopus
+Escherichia coli,Human,UV-C,94.45 W,3560,hermetic,DNA damage,lysosome,Citric Acid,Hemoglobin,TP53,skin,PMC ID
+Mus musculus,Plant,UV-A,13.31 KW,2901,harmful,signaling,lysosome,Pyruvate,Keratin,KRAS,whole body,PMC ID
+Arabidopsis thaliana,Animal,UV-C,76.35 KJ,1797,hermetic,pathways,cell wall,Acetyl-CoA,Collagen,BRAF,seed,PMC ID
+Mus musculus,Microorganism,UV-A,30.52 KJ,793,harmful,DNA repair,chloroplast,Fructose,Tubulin,BRCA1,skin,Scopus
+Homo sapiens,Animal,UV-A,11.27 J,2375,harmful,pathways,chloroplast,Fructose,Hemoglobin,MTOR,plant,PMC ID
+Arabidopsis thaliana,Microorganism,UV-A,4.19 KW,2193,hermetic,pathways,proxisome,Fructose,Cytochrome C,BRCA1,skin,PMC ID
+Escherichia coli,Human,UV-B,54.48 J,3578,hermetic,pathways,endoplasmic reticulum,Citric Acid,Myosin,APOE,plant,Scopus
+Homo sapiens,Animal,UV-C,99.68 W,3522,hermetic,pathways,mitochondrion,Pyruvate,Myosin,TP53,skin,Scopus
+Escherichia coli,Plant,UV-B,83.00 KJ,1977,hermetic,epigenetic,membrane,Citric Acid,Hemoglobin,MTOR,plant,Scopus
+Homo sapiens,Microorganism,UV-A,82.58 KW,3443,harmful,epigenetic,nucleus,Nicotinamide Adenine Dinucleotide,Hemoglobin,APOE,tear,PMC ID
+Mus musculus,Human,UV-B,93.04 KJ,1526,harmful,DNA repair,lysosome,Pyruvate,Tubulin,EGFR,cell,PMC ID
+Arabidopsis thaliana,Human,UV-A,49.82 KW,1683,harmful,pathways,cell wall,Nicotinamide Adenine Dinucleotide,Myosin,TP53,whole body,Scopus
+Homo sapiens,Plant,UV-B,81.69 W,2145,harmful,epigenetic,cytoplasm,Glucose,Collagen,APOE,tear,Scopus
+Escherichia coli,Microorganism,UV-A,93.29 W,955,hermetic,DNA damage,lysosome,Lactic Acid,Albumin,BRAF,seed,PMC ID
+Homo sapiens,Human,UV-A,93.38 J,1388,hermetic,signaling,proxisome,Citric Acid,Insulin,APOE,whole body,PMC ID
+Escherichia coli,Human,UV-A,45.25 KJ,3203,harmful,DNA repair,membrane,Glucose,Insulin,KRAS,skin,PMC ID
+Mus musculus,Microorganism,UV-B,73.67 J,2709,harmful,DNA damage,mitochondrion,Pyruvate,Tubulin,EGFR,tear,Scopus
+Arabidopsis thaliana,Plant,UV-A,33.63 KW,1474,harmful,signaling,cell wall,Adenosine Triphosphate,Myosin,BRAF,whole body,Scopus
+Arabidopsis thaliana,Human,UV-A,0.33 W,2442,harmful,epigenetic,mitochondrion,Adenosine Triphosphate,Collagen,TP53,skin,PMC ID
+Homo sapiens,Animal,UV-A,54.09 J,1599,hermetic,pathways,cell wall,Nicotinamide Adenine Dinucleotide,Myosin,TP53,whole body,Scopus
+Escherichia coli,Animal,UV-B,88.23 J,2602,hermetic,pathways,vacuole,Glucose,Cytochrome C,EGFR,plant,PMC ID
+Mus musculus,Plant,UV-C,96.70 KJ,2172,hermetic,signaling,endoplasmic reticulum,Glucose,Collagen,KRAS,plant,Scopus
+Homo sapiens,Microorganism,UV-C,95.51 KW,1563,hermetic,DNA repair,membrane,Acetyl-CoA,Hemoglobin,TP53,skin,PMC ID
+Mus musculus,Human,UV-A,2.74 W,2108,hermetic,signaling,cell wall,Fructose,Albumin,KRAS,skin,Scopus
+Homo sapiens,Animal,UV-C,64.23 J,1982,harmful,epigenetic,cytoplasm,Acetyl-CoA,Tubulin,EGFR,whole body,Scopus
+Homo sapiens,Human,UV-B,98.71 W,2552,harmful,pathways,nucleus,Nicotinamide Adenine Dinucleotide,Keratin,EGFR,cell,Scopus
+Homo sapiens,Microorganism,UV-C,22.80 W,2419,hermetic,epigenetic,chloroplast,Acetyl-CoA,Myosin,BRCA1,tear,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,50.70 J,1456,hermetic,epigenetic,golgi,Fructose,Cytochrome C,MTOR,plant,Scopus
+Mus musculus,Animal,UV-A,72.60 W,2504,harmful,DNA repair,mitochondrion,Glucose,Collagen,TP53,skin,PMC ID
+Escherichia coli,Microorganism,UV-C,80.89 KW,1474,hermetic,pathways,nucleus,Glucose,Keratin,APOE,plant,Scopus
+Escherichia coli,Animal,UV-C,84.91 W,1442,harmful,pathways,mitochondrion,Acetyl-CoA,Albumin,BRAF,cell,Scopus
+Mus musculus,Plant,UV-A,57.01 KW,361,harmful,DNA repair,membrane,Acetyl-CoA,Albumin,TP53,skin,PMC ID
+Mus musculus,Animal,UV-B,0.23 KJ,3009,harmful,epigenetic,chloroplast,Glucose,Hemoglobin,MTOR,whole body,Scopus
+Escherichia coli,Plant,UV-C,34.40 W,676,hermetic,signaling,membrane,Lactic Acid,Albumin,MTOR,tear,Scopus
+Escherichia coli,Human,UV-B,30.06 J,1724,harmful,epigenetic,membrane,Pyruvate,Tubulin,APOE,skin,PMC ID
+Mus musculus,Plant,UV-C,75.10 J,2308,harmful,DNA damage,vacuole,Glucose,Insulin,MTOR,plant,PMC ID
+Arabidopsis thaliana,Human,UV-C,61.67 KJ,2661,hermetic,DNA damage,cell wall,Pyruvate,Hemoglobin,EGFR,cell,Scopus
+Escherichia coli,Animal,UV-C,26.12 KJ,1382,harmful,signaling,cytoplasm,Adenosine Triphosphate,Myosin,EGFR,skin,PMC ID
+Arabidopsis thaliana,Human,UV-A,96.87 KW,2976,harmful,epigenetic,proxisome,Fructose,Albumin,TP53,whole body,Scopus
+Escherichia coli,Animal,UV-B,78.47 W,2326,hermetic,epigenetic,nucleus,Lactic Acid,Albumin,APOE,tear,Scopus
+Arabidopsis thaliana,Animal,UV-A,64.68 W,1731,harmful,pathways,membrane,Fructose,Collagen,EGFR,cell,PMC ID
+Mus musculus,Human,UV-C,39.90 KJ,2028,hermetic,epigenetic,chloroplast,Acetyl-CoA,Myosin,MTOR,cell,Scopus
+Mus musculus,Plant,UV-B,2.43 KJ,46,harmful,DNA damage,golgi,Fructose,Keratin,APOE,skin,Scopus
+Mus musculus,Animal,UV-A,38.21 KW,3507,harmful,signaling,endoplasmic reticulum,Pyruvate,Myosin,BRAF,seed,PMC ID
+Homo sapiens,Animal,UV-B,12.01 KJ,245,harmful,epigenetic,lysosome,Pyruvate,Insulin,BRAF,whole body,PMC ID
+Arabidopsis thaliana,Microorganism,UV-B,71.12 KW,346,harmful,epigenetic,nucleus,Pyruvate,Collagen,EGFR,seed,PMC ID
+Escherichia coli,Microorganism,UV-A,54.73 J,257,harmful,signaling,cytoplasm,Adenosine Triphosphate,Keratin,MTOR,tear,Scopus
+Arabidopsis thaliana,Human,UV-A,14.28 W,3063,harmful,DNA repair,golgi,Nicotinamide Adenine Dinucleotide,Albumin,EGFR,cell,PMC ID
+Mus musculus,Animal,UV-B,47.52 W,2818,hermetic,DNA repair,cytoplasm,Adenosine Triphosphate,Tubulin,VEGFA,skin,PMC ID
+Escherichia coli,Human,UV-B,39.47 KJ,2025,hermetic,DNA damage,membrane,Nicotinamide Adenine Dinucleotide,Myosin,MTOR,seed,PMC ID
+Homo sapiens,Microorganism,UV-B,73.13 KJ,1241,harmful,epigenetic,ribosome,Pyruvate,Albumin,MTOR,skin,PMC ID
+Arabidopsis thaliana,Animal,UV-B,67.29 W,1499,hermetic,DNA damage,proxisome,Fructose,Insulin,MTOR,skin,PMC ID
+Arabidopsis thaliana,Plant,UV-C,57.63 J,2204,harmful,DNA damage,membrane,Pyruvate,Myosin,BRCA1,plant,PMC ID
+Homo sapiens,Human,UV-A,57.71 KW,607,harmful,epigenetic,ribosome,Citric Acid,Cytochrome C,APOE,whole body,PMC ID
+Arabidopsis thaliana,Plant,UV-B,85.55 W,2680,hermetic,DNA damage,lysosome,Pyruvate,Cytochrome C,KRAS,plant,PMC ID
+Homo sapiens,Microorganism,UV-B,91.24 J,1247,hermetic,DNA repair,chloroplast,Adenosine Triphosphate,Cytochrome C,BRAF,skin,Scopus
+Mus musculus,Plant,UV-B,27.82 W,898,hermetic,DNA repair,vacuole,Acetyl-CoA,Insulin,MTOR,cell,Scopus
+Escherichia coli,Plant,UV-C,93.48 W,3508,hermetic,signaling,lysosome,Lactic Acid,Cytochrome C,VEGFA,tear,Scopus
+Escherichia coli,Human,UV-B,95.58 KJ,3300,hermetic,DNA repair,membrane,Lactic Acid,Keratin,VEGFA,plant,PMC ID
+Arabidopsis thaliana,Plant,UV-B,59.23 KW,1875,hermetic,pathways,cytoplasm,Lactic Acid,Collagen,KRAS,whole body,Scopus
+Homo sapiens,Microorganism,UV-C,93.50 KW,1645,harmful,signaling,proxisome,Acetyl-CoA,Cytochrome C,EGFR,skin,Scopus
+Arabidopsis thaliana,Human,UV-C,86.30 KW,1318,hermetic,DNA damage,membrane,Nicotinamide Adenine Dinucleotide,Myosin,APOE,skin,PMC ID
+Escherichia coli,Animal,UV-B,80.65 KW,396,hermetic,epigenetic,golgi,Acetyl-CoA,Hemoglobin,BRCA1,tear,Scopus
+Arabidopsis thaliana,Human,UV-C,29.61 KW,2346,harmful,DNA damage,mitochondrion,Acetyl-CoA,Insulin,BRAF,cell,Scopus
+Homo sapiens,Microorganism,UV-C,77.56 KW,2276,hermetic,DNA repair,vacuole,Adenosine Triphosphate,Insulin,MTOR,cell,Scopus
+Arabidopsis thaliana,Human,UV-C,70.44 KJ,1557,harmful,pathways,cell wall,Acetyl-CoA,Hemoglobin,KRAS,skin,PMC ID
+Mus musculus,Human,UV-A,31.77 J,302,harmful,DNA damage,cytoplasm,Pyruvate,Hemoglobin,EGFR,seed,PMC ID
+Arabidopsis thaliana,Animal,UV-C,16.95 KW,3569,harmful,signaling,vacuole,Adenosine Triphosphate,Cytochrome C,VEGFA,tear,PMC ID
+Arabidopsis thaliana,Human,UV-B,17.88 KJ,1438,harmful,pathways,proxisome,Lactic Acid,Albumin,MTOR,plant,PMC ID
+Mus musculus,Plant,UV-A,90.45 W,1492,harmful,pathways,mitochondrion,Acetyl-CoA,Cytochrome C,VEGFA,whole body,Scopus
+Mus musculus,Human,UV-C,16.00 J,1859,harmful,DNA repair,golgi,Nicotinamide Adenine Dinucleotide,Hemoglobin,VEGFA,cell,Scopus
+Escherichia coli,Animal,UV-B,37.03 KJ,3105,hermetic,DNA damage,golgi,Lactic Acid,Keratin,EGFR,seed,PMC ID
+Homo sapiens,Plant,UV-B,6.30 W,3149,harmful,DNA damage,golgi,Fructose,Albumin,BRCA1,tear,Scopus
+Mus musculus,Animal,UV-C,33.29 KW,2760,hermetic,epigenetic,cell wall,Fructose,Keratin,BRAF,cell,Scopus
+Mus musculus,Microorganism,UV-C,0.61 W,1474,hermetic,epigenetic,golgi,Citric Acid,Cytochrome C,EGFR,tear,Scopus
+Escherichia coli,Microorganism,UV-C,59.43 W,3180,harmful,DNA damage,proxisome,Acetyl-CoA,Keratin,VEGFA,seed,PMC ID
+Homo sapiens,Animal,UV-C,4.75 KW,1312,hermetic,DNA damage,endoplasmic reticulum,Pyruvate,Myosin,BRCA1,plant,PMC ID
+Arabidopsis thaliana,Human,UV-A,91.11 KW,246,hermetic,pathways,nucleus,Adenosine Triphosphate,Hemoglobin,EGFR,skin,PMC ID
+Homo sapiens,Microorganism,UV-C,85.60 KW,3382,harmful,signaling,proxisome,Fructose,Collagen,TP53,seed,Scopus
+Mus musculus,Microorganism,UV-A,57.70 KJ,601,harmful,DNA repair,cytoplasm,Pyruvate,Cytochrome C,VEGFA,tear,PMC ID
+Escherichia coli,Human,UV-C,3.89 KJ,3442,harmful,epigenetic,proxisome,Glucose,Myosin,BRAF,skin,PMC ID
+Mus musculus,Animal,UV-B,70.91 KJ,1083,harmful,DNA damage,endoplasmic reticulum,Nicotinamide Adenine Dinucleotide,Hemoglobin,APOE,seed,PMC ID
+Homo sapiens,Plant,UV-B,51.43 J,3133,hermetic,DNA damage,golgi,Citric Acid,Myosin,MTOR,cell,PMC ID
+Escherichia coli,Microorganism,UV-A,82.87 W,171,harmful,signaling,lysosome,Fructose,Collagen,APOE,cell,Scopus
+Mus musculus,Animal,UV-B,27.18 KJ,2791,hermetic,DNA repair,cytoplasm,Nicotinamide Adenine Dinucleotide,Keratin,BRAF,plant,PMC ID
+Arabidopsis thaliana,Animal,UV-A,56.11 KJ,411,hermetic,pathways,chloroplast,Citric Acid,Insulin,VEGFA,skin,PMC ID
+Arabidopsis thaliana,Microorganism,UV-C,43.19 J,421,harmful,DNA damage,membrane,Fructose,Myosin,MTOR,skin,PMC ID
+Arabidopsis thaliana,Plant,UV-B,14.92 KJ,609,hermetic,epigenetic,cell wall,Pyruvate,Keratin,KRAS,cell,PMC ID
+Escherichia coli,Animal,UV-B,88.29 J,2125,hermetic,DNA damage,endoplasmic reticulum,Fructose,Myosin,TP53,cell,PMC ID
+Homo sapiens,Plant,UV-C,59.91 KJ,1135,hermetic,pathways,nucleus,Citric Acid,Collagen,APOE,skin,PMC ID
+Mus musculus,Plant,UV-C,67.46 J,2957,harmful,DNA damage,chloroplast,Nicotinamide Adenine Dinucleotide,Insulin,BRAF,whole body,PMC ID
+Homo sapiens,Plant,UV-A,87.00 KW,976,hermetic,DNA damage,membrane,Lactic Acid,Hemoglobin,VEGFA,tear,PMC ID
+Homo sapiens,Microorganism,UV-C,75.93 W,1450,harmful,DNA repair,proxisome,Pyruvate,Myosin,KRAS,cell,PMC ID
+Escherichia coli,Human,UV-C,95.62 J,658,hermetic,DNA repair,ribosome,Fructose,Collagen,BRCA1,plant,PMC ID
+Escherichia coli,Human,UV-C,41.02 KW,2274,harmful,DNA repair,membrane,Nicotinamide Adenine Dinucleotide,Tubulin,MTOR,cell,PMC ID
+Homo sapiens,Human,UV-A,56.09 W,239,hermetic,epigenetic,cytoplasm,Adenosine Triphosphate,Collagen,KRAS,tear,Scopus
+Homo sapiens,Human,UV-C,41.27 W,121,harmful,DNA repair,chloroplast,Citric Acid,Myosin,KRAS,tear,PMC ID
+Mus musculus,Microorganism,UV-B,9.01 KJ,1151,harmful,epigenetic,golgi,Pyruvate,Keratin,VEGFA,seed,Scopus
+Mus musculus,Human,UV-A,23.18 KW,388,hermetic,pathways,mitochondrion,Pyruvate,Tubulin,BRCA1,plant,PMC ID
+Mus musculus,Plant,UV-A,31.02 J,3219,harmful,DNA repair,chloroplast,Citric Acid,Tubulin,BRCA1,cell,Scopus
+Escherichia coli,Microorganism,UV-A,40.19 KJ,3400,harmful,pathways,endoplasmic reticulum,Lactic Acid,Myosin,VEGFA,whole body,Scopus
+Arabidopsis thaliana,Human,UV-B,44.09 J,859,harmful,pathways,cytoplasm,Nicotinamide Adenine Dinucleotide,Hemoglobin,KRAS,cell,Scopus
+Arabidopsis thaliana,Animal,UV-B,40.43 KJ,1755,hermetic,signaling,cytoplasm,Pyruvate,Tubulin,TP53,whole body,PMC ID
+Escherichia coli,Human,UV-C,88.65 KJ,2641,harmful,DNA repair,mitochondrion,Acetyl-CoA,Hemoglobin,VEGFA,whole body,PMC ID
+Mus musculus,Plant,UV-C,26.40 KW,3028,hermetic,signaling,vacuole,Pyruvate,Hemoglobin,TP53,skin,Scopus
+Homo sapiens,Animal,UV-C,78.72 KW,343,hermetic,pathways,golgi,Fructose,Tubulin,APOE,skin,PMC ID
+Escherichia coli,Plant,UV-B,64.93 KJ,3042,harmful,signaling,chloroplast,Adenosine Triphosphate,Insulin,EGFR,cell,PMC ID
+Escherichia coli,Plant,UV-A,82.67 KW,3299,harmful,signaling,vacuole,Fructose,Myosin,APOE,plant,Scopus
+Homo sapiens,Animal,UV-C,78.19 KJ,1100,hermetic,DNA repair,membrane,Nicotinamide Adenine Dinucleotide,Myosin,BRAF,tear,PMC ID
+Escherichia coli,Plant,UV-A,52.54 W,1862,hermetic,pathways,cytoplasm,Adenosine Triphosphate,Myosin,MTOR,skin,Scopus
+Homo sapiens,Human,UV-A,75.81 W,1818,hermetic,DNA damage,endoplasmic reticulum,Citric Acid,Tubulin,BRAF,seed,PMC ID
+Homo sapiens,Microorganism,UV-C,1.05 KW,3087,hermetic,signaling,cytoplasm,Lactic Acid,Insulin,MTOR,cell,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,24.82 KW,2489,harmful,DNA repair,mitochondrion,Adenosine Triphosphate,Keratin,MTOR,whole body,PMC ID
+Homo sapiens,Plant,UV-B,52.79 J,2882,hermetic,epigenetic,vacuole,Adenosine Triphosphate,Myosin,BRAF,seed,PMC ID
+Arabidopsis thaliana,Animal,UV-A,7.31 KW,1536,hermetic,epigenetic,lysosome,Fructose,Insulin,TP53,skin,Scopus
+Mus musculus,Microorganism,UV-C,36.46 KJ,3165,hermetic,DNA repair,vacuole,Acetyl-CoA,Keratin,KRAS,seed,PMC ID
+Homo sapiens,Human,UV-C,63.25 J,89,hermetic,DNA repair,cytoplasm,Fructose,Albumin,VEGFA,tear,Scopus
+Escherichia coli,Human,UV-B,49.82 J,933,harmful,pathways,chloroplast,Fructose,Albumin,BRCA1,tear,PMC ID
+Mus musculus,Human,UV-B,85.21 J,1547,hermetic,pathways,lysosome,Nicotinamide Adenine Dinucleotide,Keratin,VEGFA,cell,Scopus
+Homo sapiens,Microorganism,UV-A,42.32 KJ,3492,harmful,DNA repair,golgi,Nicotinamide Adenine Dinucleotide,Tubulin,BRCA1,cell,Scopus
+Mus musculus,Plant,UV-B,42.59 W,1146,hermetic,pathways,ribosome,Adenosine Triphosphate,Collagen,MTOR,whole body,Scopus
+Escherichia coli,Animal,UV-B,58.19 KJ,583,hermetic,DNA damage,proxisome,Citric Acid,Insulin,BRAF,cell,PMC ID
+Homo sapiens,Microorganism,UV-C,96.29 W,1973,hermetic,pathways,golgi,Nicotinamide Adenine Dinucleotide,Collagen,VEGFA,seed,PMC ID
+Mus musculus,Plant,UV-B,84.91 KJ,2634,harmful,signaling,cytoplasm,Glucose,Cytochrome C,BRAF,whole body,Scopus
+Mus musculus,Animal,UV-C,48.05 KW,479,hermetic,DNA damage,golgi,Fructose,Cytochrome C,TP53,cell,Scopus
+Homo sapiens,Plant,UV-A,43.23 J,498,harmful,epigenetic,proxisome,Citric Acid,Tubulin,TP53,cell,PMC ID
+Arabidopsis thaliana,Human,UV-A,92.49 J,193,harmful,pathways,mitochondrion,Glucose,Hemoglobin,KRAS,skin,PMC ID
+Homo sapiens,Human,UV-C,4.07 W,3255,harmful,DNA damage,ribosome,Glucose,Myosin,TP53,whole body,PMC ID
+Arabidopsis thaliana,Plant,UV-C,94.67 KJ,3150,hermetic,DNA damage,mitochondrion,Citric Acid,Myosin,APOE,skin,PMC ID
+Mus musculus,Microorganism,UV-C,31.17 KJ,2240,harmful,epigenetic,lysosome,Nicotinamide Adenine Dinucleotide,Collagen,MTOR,plant,Scopus
+Homo sapiens,Microorganism,UV-B,67.68 KW,2002,harmful,DNA damage,golgi,Fructose,Insulin,MTOR,cell,Scopus
+Homo sapiens,Animal,UV-B,12.14 KW,3469,hermetic,epigenetic,mitochondrion,Lactic Acid,Collagen,EGFR,skin,PMC ID
+Mus musculus,Microorganism,UV-B,21.70 KJ,143,harmful,signaling,mitochondrion,Lactic Acid,Albumin,MTOR,cell,PMC ID
+Mus musculus,Animal,UV-A,30.24 J,3057,harmful,epigenetic,mitochondrion,Acetyl-CoA,Albumin,EGFR,seed,PMC ID
+Escherichia coli,Animal,UV-A,35.36 KW,1398,hermetic,DNA damage,nucleus,Acetyl-CoA,Albumin,BRCA1,seed,Scopus
+Arabidopsis thaliana,Human,UV-C,15.08 J,2514,harmful,pathways,endoplasmic reticulum,Fructose,Hemoglobin,EGFR,whole body,PMC ID
+Arabidopsis thaliana,Microorganism,UV-B,29.74 J,3076,harmful,DNA damage,proxisome,Acetyl-CoA,Keratin,KRAS,whole body,PMC ID
+Escherichia coli,Animal,UV-C,88.31 KJ,319,harmful,epigenetic,endoplasmic reticulum,Nicotinamide Adenine Dinucleotide,Albumin,EGFR,tear,Scopus
+Arabidopsis thaliana,Animal,UV-B,58.87 J,1590,hermetic,epigenetic,vacuole,Citric Acid,Hemoglobin,EGFR,tear,PMC ID
+Escherichia coli,Plant,UV-A,54.31 KW,395,harmful,pathways,chloroplast,Acetyl-CoA,Albumin,APOE,tear,PMC ID
+Escherichia coli,Animal,UV-A,16.97 KW,2756,hermetic,epigenetic,lysosome,Lactic Acid,Tubulin,BRCA1,cell,Scopus
+Homo sapiens,Human,UV-B,26.19 KW,1051,hermetic,DNA repair,proxisome,Adenosine Triphosphate,Collagen,KRAS,skin,Scopus
+Mus musculus,Microorganism,UV-C,16.00 J,1968,harmful,signaling,vacuole,Citric Acid,Albumin,VEGFA,skin,Scopus
+Arabidopsis thaliana,Human,UV-C,78.76 J,200,harmful,epigenetic,membrane,Glucose,Hemoglobin,BRAF,tear,PMC ID
+Homo sapiens,Microorganism,UV-B,90.63 KJ,658,hermetic,pathways,ribosome,Acetyl-CoA,Collagen,KRAS,whole body,Scopus
+Escherichia coli,Microorganism,UV-C,72.52 J,2242,hermetic,DNA repair,cytoplasm,Fructose,Albumin,BRAF,whole body,Scopus
+Homo sapiens,Microorganism,UV-A,64.93 KW,1522,harmful,pathways,lysosome,Glucose,Albumin,VEGFA,skin,PMC ID
+Escherichia coli,Animal,UV-C,57.62 W,1347,harmful,DNA damage,endoplasmic reticulum,Lactic Acid,Collagen,BRAF,whole body,PMC ID
+Homo sapiens,Human,UV-C,20.13 KW,1503,hermetic,DNA repair,nucleus,Lactic Acid,Keratin,TP53,tear,Scopus
+Arabidopsis thaliana,Animal,UV-C,92.96 KW,2408,hermetic,DNA repair,cytoplasm,Pyruvate,Hemoglobin,BRAF,cell,PMC ID
+Arabidopsis thaliana,Plant,UV-C,12.50 J,57,harmful,signaling,membrane,Glucose,Insulin,BRAF,tear,PMC ID
+Mus musculus,Plant,UV-C,33.81 J,355,harmful,DNA repair,membrane,Nicotinamide Adenine Dinucleotide,Insulin,VEGFA,whole body,Scopus
+Homo sapiens,Microorganism,UV-A,33.67 KW,252,hermetic,DNA damage,endoplasmic reticulum,Acetyl-CoA,Collagen,EGFR,tear,Scopus
+Escherichia coli,Plant,UV-C,50.14 KJ,2235,harmful,DNA repair,mitochondrion,Lactic Acid,Myosin,TP53,plant,PMC ID
+Escherichia coli,Animal,UV-A,50.21 KW,737,hermetic,epigenetic,lysosome,Citric Acid,Cytochrome C,BRCA1,tear,PMC ID
+Mus musculus,Plant,UV-B,66.57 W,1632,hermetic,DNA damage,golgi,Acetyl-CoA,Albumin,EGFR,whole body,Scopus
+Escherichia coli,Microorganism,UV-A,56.65 W,1070,hermetic,DNA repair,chloroplast,Fructose,Cytochrome C,KRAS,cell,Scopus
+Arabidopsis thaliana,Human,UV-C,33.52 KW,3468,harmful,DNA damage,cytoplasm,Acetyl-CoA,Albumin,APOE,plant,PMC ID
+Mus musculus,Microorganism,UV-C,25.63 KW,3434,harmful,epigenetic,membrane,Acetyl-CoA,Cytochrome C,MTOR,plant,PMC ID
+Arabidopsis thaliana,Microorganism,UV-C,37.08 W,3059,harmful,epigenetic,nucleus,Adenosine Triphosphate,Keratin,VEGFA,plant,PMC ID
+Homo sapiens,Microorganism,UV-B,38.63 W,3250,hermetic,DNA damage,mitochondrion,Lactic Acid,Myosin,KRAS,plant,Scopus
+Homo sapiens,Microorganism,UV-B,92.14 KJ,1713,hermetic,epigenetic,chloroplast,Glucose,Myosin,BRCA1,seed,Scopus
+Escherichia coli,Human,UV-C,0.24 KJ,3010,harmful,DNA repair,cytoplasm,Nicotinamide Adenine Dinucleotide,Myosin,APOE,plant,PMC ID
+Escherichia coli,Plant,UV-C,98.77 KJ,3239,hermetic,epigenetic,cytoplasm,Lactic Acid,Myosin,VEGFA,whole body,Scopus
+Arabidopsis thaliana,Plant,UV-C,18.27 W,1061,harmful,DNA repair,ribosome,Citric Acid,Tubulin,KRAS,whole body,Scopus
+Arabidopsis thaliana,Human,UV-B,62.73 J,1007,harmful,DNA damage,lysosome,Pyruvate,Collagen,APOE,whole body,Scopus
+Escherichia coli,Animal,UV-B,60.90 W,678,harmful,signaling,mitochondrion,Adenosine Triphosphate,Myosin,VEGFA,tear,Scopus
+Homo sapiens,Human,UV-C,73.80 J,63,hermetic,DNA damage,proxisome,Adenosine Triphosphate,Cytochrome C,MTOR,whole body,PMC ID
+Arabidopsis thaliana,Plant,UV-B,92.65 W,2417,harmful,signaling,cell wall,Nicotinamide Adenine Dinucleotide,Myosin,BRCA1,seed,PMC ID
+Arabidopsis thaliana,Plant,UV-A,20.77 J,1374,harmful,DNA repair,proxisome,Nicotinamide Adenine Dinucleotide,Tubulin,KRAS,skin,PMC ID
+Arabidopsis thaliana,Human,UV-A,69.05 KJ,1440,hermetic,epigenetic,ribosome,Adenosine Triphosphate,Myosin,KRAS,cell,PMC ID
+Homo sapiens,Plant,UV-C,93.57 W,1008,hermetic,epigenetic,cytoplasm,Fructose,Myosin,APOE,cell,Scopus
+Homo sapiens,Animal,UV-A,22.63 J,109,harmful,DNA damage,golgi,Adenosine Triphosphate,Keratin,EGFR,whole body,PMC ID
+Mus musculus,Plant,UV-C,74.51 W,2123,harmful,pathways,membrane,Glucose,Collagen,MTOR,seed,Scopus
+Arabidopsis thaliana,Microorganism,UV-B,89.28 J,2630,hermetic,signaling,chloroplast,Glucose,Keratin,EGFR,skin,PMC ID
+Arabidopsis thaliana,Human,UV-C,33.27 KW,2198,harmful,DNA damage,cytoplasm,Pyruvate,Hemoglobin,MTOR,skin,Scopus
+Escherichia coli,Animal,UV-A,93.59 J,885,harmful,signaling,lysosome,Acetyl-CoA,Albumin,APOE,tear,Scopus
+Escherichia coli,Animal,UV-C,24.97 W,3050,hermetic,DNA repair,cell wall,Acetyl-CoA,Tubulin,MTOR,skin,Scopus
+Mus musculus,Microorganism,UV-B,38.26 J,1128,hermetic,DNA damage,proxisome,Pyruvate,Hemoglobin,MTOR,cell,Scopus
+Homo sapiens,Microorganism,UV-A,36.81 W,2149,harmful,DNA damage,vacuole,Acetyl-CoA,Collagen,BRCA1,cell,PMC ID
+Arabidopsis thaliana,Human,UV-B,31.62 J,3450,harmful,DNA repair,lysosome,Lactic Acid,Hemoglobin,BRCA1,cell,PMC ID
+Escherichia coli,Human,UV-A,62.41 KW,1941,harmful,epigenetic,vacuole,Nicotinamide Adenine Dinucleotide,Hemoglobin,VEGFA,plant,PMC ID
+Mus musculus,Human,UV-C,34.67 KW,795,hermetic,signaling,golgi,Acetyl-CoA,Hemoglobin,BRAF,seed,Scopus
+Homo sapiens,Microorganism,UV-A,64.54 W,2883,hermetic,DNA repair,endoplasmic reticulum,Pyruvate,Collagen,MTOR,tear,PMC ID
+Homo sapiens,Plant,UV-B,43.70 J,1191,harmful,epigenetic,ribosome,Pyruvate,Keratin,VEGFA,seed,PMC ID
+Homo sapiens,Animal,UV-A,96.62 W,515,hermetic,DNA repair,mitochondrion,Nicotinamide Adenine Dinucleotide,Tubulin,BRAF,whole body,Scopus
+Escherichia coli,Animal,UV-C,63.52 KW,1317,harmful,DNA damage,cell wall,Glucose,Keratin,TP53,plant,Scopus
+Arabidopsis thaliana,Human,UV-C,78.46 KW,3107,harmful,pathways,endoplasmic reticulum,Fructose,Tubulin,BRAF,tear,Scopus
+Mus musculus,Animal,UV-C,68.99 J,2490,hermetic,signaling,mitochondrion,Glucose,Cytochrome C,MTOR,plant,Scopus
+Mus musculus,Animal,UV-B,82.08 KJ,3480,hermetic,DNA damage,vacuole,Fructose,Tubulin,BRCA1,whole body,PMC ID
+Homo sapiens,Human,UV-C,46.04 KJ,63,harmful,epigenetic,golgi,Citric Acid,Myosin,BRAF,tear,Scopus
+Mus musculus,Microorganism,UV-B,48.97 W,3330,hermetic,pathways,golgi,Pyruvate,Keratin,KRAS,tear,PMC ID
+Mus musculus,Animal,UV-A,1.89 J,3011,harmful,signaling,endoplasmic reticulum,Adenosine Triphosphate,Keratin,KRAS,seed,Scopus
+Escherichia coli,Plant,UV-A,55.20 J,1696,hermetic,DNA damage,chloroplast,Glucose,Tubulin,BRAF,plant,Scopus
+Homo sapiens,Plant,UV-A,69.51 KJ,801,hermetic,DNA damage,cell wall,Lactic Acid,Hemoglobin,VEGFA,skin,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,73.27 W,3125,harmful,pathways,chloroplast,Lactic Acid,Cytochrome C,BRCA1,plant,Scopus
+Arabidopsis thaliana,Microorganism,UV-A,69.24 J,1965,harmful,DNA damage,endoplasmic reticulum,Nicotinamide Adenine Dinucleotide,Keratin,BRAF,whole body,PMC ID
+Mus musculus,Plant,UV-B,10.06 W,445,hermetic,DNA damage,cell wall,Glucose,Albumin,KRAS,tear,Scopus
+Mus musculus,Animal,UV-A,94.20 W,296,hermetic,signaling,cytoplasm,Glucose,Keratin,MTOR,skin,PMC ID
+Homo sapiens,Human,UV-C,9.51 W,669,harmful,DNA damage,cell wall,Lactic Acid,Cytochrome C,EGFR,cell,Scopus
+Escherichia coli,Human,UV-A,68.43 W,3483,hermetic,DNA repair,cytoplasm,Nicotinamide Adenine Dinucleotide,Myosin,KRAS,plant,Scopus
+Mus musculus,Microorganism,UV-C,93.87 KW,2308,hermetic,DNA repair,cell wall,Acetyl-CoA,Albumin,BRCA1,skin,PMC ID
+Homo sapiens,Human,UV-B,45.67 J,2069,harmful,DNA damage,cell wall,Glucose,Keratin,TP53,skin,PMC ID
+Arabidopsis thaliana,Microorganism,UV-B,57.02 W,1813,hermetic,signaling,cytoplasm,Fructose,Hemoglobin,KRAS,seed,PMC ID
+Homo sapiens,Animal,UV-B,84.81 W,3375,hermetic,pathways,cell wall,Nicotinamide Adenine Dinucleotide,Tubulin,BRCA1,tear,PMC ID
+Mus musculus,Animal,UV-A,65.79 KW,2995,hermetic,DNA damage,nucleus,Glucose,Albumin,APOE,whole body,Scopus
+Mus musculus,Human,UV-A,56.39 KJ,3203,hermetic,signaling,endoplasmic reticulum,Citric Acid,Myosin,VEGFA,cell,PMC ID
+Mus musculus,Plant,UV-C,11.83 KJ,943,harmful,DNA repair,lysosome,Pyruvate,Keratin,APOE,plant,Scopus
+Homo sapiens,Human,UV-C,84.74 J,1789,hermetic,DNA repair,lysosome,Lactic Acid,Cytochrome C,VEGFA,plant,Scopus
+Homo sapiens,Animal,UV-B,39.05 KJ,3060,harmful,DNA repair,membrane,Citric Acid,Collagen,APOE,tear,PMC ID
+Homo sapiens,Microorganism,UV-C,71.25 W,488,hermetic,epigenetic,lysosome,Glucose,Insulin,EGFR,cell,Scopus
+Escherichia coli,Plant,UV-C,24.40 KW,1697,harmful,signaling,vacuole,Acetyl-CoA,Myosin,KRAS,whole body,PMC ID
+Mus musculus,Animal,UV-A,39.93 KW,2568,hermetic,pathways,golgi,Adenosine Triphosphate,Collagen,TP53,plant,Scopus
+Arabidopsis thaliana,Plant,UV-A,22.71 KJ,177,harmful,pathways,nucleus,Nicotinamide Adenine Dinucleotide,Albumin,EGFR,whole body,PMC ID
+Arabidopsis thaliana,Animal,UV-A,14.18 KW,1435,harmful,DNA repair,proxisome,Glucose,Albumin,EGFR,tear,Scopus
+Arabidopsis thaliana,Animal,UV-B,59.42 KW,837,harmful,DNA repair,vacuole,Glucose,Insulin,VEGFA,skin,Scopus
+Arabidopsis thaliana,Human,UV-B,73.62 J,2345,harmful,pathways,mitochondrion,Nicotinamide Adenine Dinucleotide,Insulin,MTOR,skin,PMC ID
+Homo sapiens,Microorganism,UV-C,68.27 KJ,178,hermetic,DNA repair,endoplasmic reticulum,Pyruvate,Keratin,KRAS,seed,Scopus
+Mus musculus,Microorganism,UV-A,2.86 J,2218,harmful,DNA repair,lysosome,Glucose,Hemoglobin,EGFR,cell,PMC ID
+Mus musculus,Plant,UV-C,28.98 W,1334,hermetic,DNA damage,vacuole,Acetyl-CoA,Hemoglobin,KRAS,tear,Scopus
+Mus musculus,Human,UV-A,7.62 W,174,harmful,signaling,membrane,Nicotinamide Adenine Dinucleotide,Cytochrome C,EGFR,skin,PMC ID
+Escherichia coli,Microorganism,UV-C,54.97 J,2599,hermetic,signaling,endoplasmic reticulum,Pyruvate,Collagen,APOE,cell,Scopus
